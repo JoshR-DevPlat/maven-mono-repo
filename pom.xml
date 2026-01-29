@@ -13,7 +13,6 @@
     <description>Parent POM for multi-module Maven project</description>
 
     <modules>
-        <module>module-2</module>
         <module>module-1</module>
     </modules>
 
